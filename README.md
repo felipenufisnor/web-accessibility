@@ -1,5 +1,5 @@
 # acessibilidade
-Web accessibility: Making the frontend inclusive
+Web accessibility: making the frontend inclusive
 
 In this project I was able to understand how to optimize websites for screen reader users;
 Understand how a blind person uses the internet;
